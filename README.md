@@ -5,6 +5,7 @@
 <br/>
 
 <div align="center">
+
 [![WeAre\[WP\]](https://img.shields.io/badge/WeAre%5BWP%5D-wearewp.pro-F7981B?style=flat-square&logo=wordpress&logoColor=1C2633)](https://wearewp.pro)&nbsp;
 [![WP Assistance](https://img.shields.io/badge/WP%20Assistance-wp--assistance.fr-1C2633?style=flat-square&logo=wordpress&logoColor=F7981B)](https://wp-assistance.fr)&nbsp;
 [![Thierry Pigot](https://img.shields.io/badge/thierry--pigot.fr-Portfolio-3A4F69?style=flat-square&logo=googlechrome&logoColor=white)](https://thierry-pigot.fr)&nbsp;
