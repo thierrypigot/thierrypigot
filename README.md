@@ -6,9 +6,8 @@
 
 <div align="center">
 
-[![WeAre\[WP\]](https://img.shields.io/badge/WeAre%5BWP%5D-wearewp.pro-F7981B?style=flat-square&logo=wordpress&logoColor=1C2633)](https://wearewp.pro)&nbsp;
-[![WP Assistance](https://img.shields.io/badge/WP%20Assistance-wp--assistance.fr-1C2633?style=flat-square&logo=wordpress&logoColor=F7981B)](https://wp-assistance.fr)&nbsp;
-[![Thierry Pigot](https://img.shields.io/badge/thierry--pigot.fr-Portfolio-3A4F69?style=flat-square&logo=googlechrome&logoColor=white)](https://thierry-pigot.fr)&nbsp;
+[![WeAre\[WP\]](https://img.shields.io/badge/WeAre%5BWP%5D-wearewp.pro-F7981B?style=flat-square&logo=wordpress&logoColor=1C2633)](https://www.wearewp.pro)&nbsp;
+[![WP Assistance](https://img.shields.io/badge/WP%20Assistance-wp--assistance.fr-1C2633?style=flat-square&logo=wordpress&logoColor=F7981B)](https://www.wp-assistance.fr)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thierry%20Pigot-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pigot-thierry)
 
 [![WordPress.org](https://img.shields.io/badge/WordPress.org-thierrypigot-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/thierrypigot/)&nbsp;
