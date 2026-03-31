@@ -28,7 +28,7 @@ En 20 ans, j’ai accompagné des structures aussi diverses que **Ipsen, la Croi
 
 Co-fondateur du **Meetup WordPress Paris** (1 700 membres), speaker à **16 WordCamps**, contributeur traductions **Polyglots FR**, développeur de plugins publiés sur wordpress.org. WordPress n’est pas juste mon métier — c’est ma communauté.
 
-> *« Nous ne faisons pas des sites pour nos clients, mais pour les leurs  »*
+> *« Nous ne faisons pas des sites pour nos clients, mais pour les leurs »*
 
 ---
 
@@ -39,8 +39,8 @@ Co-fondateur du **Meetup WordPress Paris** (1 700 membres), speaker à **16 Word
 | 🏗️ **Architecture WordPress** | FSE, Gutenberg, Block Patterns, thèmes sur mesure, ACF, WooCommerce |
 | 🔒 **Sécurité & Maintenance** | 150+ sites actifs, désinfection, monitoring, mises à jour critiques |
 | 🔍 **SEO & Performance** | Audits Core Web Vitals, RGAA, Opquast, éco-conception WordPress |
-| 🌍 **Traductions WP FR** | Contributions Polyglots, glossaire officiel 602 termes, outils open source |
-| 🎤 **Conférences & Formation** | 16 WordCamps, HEC, Openska…, 10 vidéos WordPress.tv |
+| 🌍 **Traductions WP FR** | Contributions Polyglots, outils open source |
+| 🎤 **Conférences & Formation** | 50+ Barcamp, 16 WordCamps, HEC, Openska…, 10 vidéos WordPress.tv |
 | ⚙️ **Développement plugins** | Plugins wordpress.org actifs, 1 600+ installations cumulées |
 
 ---
